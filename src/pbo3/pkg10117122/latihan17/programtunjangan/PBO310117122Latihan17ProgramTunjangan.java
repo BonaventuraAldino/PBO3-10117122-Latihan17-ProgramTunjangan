@@ -9,9 +9,9 @@ import java.util.Scanner;
  *
  * @author lenovo
  * 
- * NAMA  : BONAVENTURA ALDINO SENDA SENI
- * KELAS : PBO-3
- * NIM   : 10117122
+ * NAMA  : AldiLesmana
+ * KELAS : IF-3
+ * NIM   : 10117108
  * Deskripsi Program : Program ini di buat untuk menghitung tunjangan gaji dari
  *                     karyawan jika ia sudah menikah
  * 
@@ -41,7 +41,7 @@ public class PBO310117122Latihan17ProgramTunjangan {
         System.out.println("Gaji Pokok  : Rp " + gajiPokok);
         System.out.println("Tunjangan   : RP " + tunjangan);
         System.out.println("Total Gaji  : Rp " + totalGaji);
-        System.out.println("(Developed by : Bonaventura Aldino Senda Seni)");
+        System.out.println("(Developed by : Aldi Lesmana)");
         
     }
     
